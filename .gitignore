@@ -1,11 +1,9 @@
 ckptDir/*
 ckptDir
-checkpoints/*
-checkpoints
 runDir/*
 runDir
 gem5/build
 gem5/core.*
 .vscode*
-resources-linux
+# resources-linux
 resources-linux/*
